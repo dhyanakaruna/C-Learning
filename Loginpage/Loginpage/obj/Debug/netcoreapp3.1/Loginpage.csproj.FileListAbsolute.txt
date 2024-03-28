@@ -1,0 +1,83 @@
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.csproj.AssemblyReference.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.AssemblyInfo.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorAssemblyInfo.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorAssemblyInfo.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\staticwebassets\Loginpage.StaticWebAssets.Manifest.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\staticwebassets\Loginpage.StaticWebAssets.xml
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\scopedcss\bundle\Loginpage.styles.css
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.TagHelpers.input.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.TagHelpers.output.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorCoreGenerate.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Login\LoginSuccess.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorTargetAssemblyInfo.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorTargetAssemblyInfo.cs
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.dll
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.pdb
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.exe
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.deps.json
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.runtimeconfig.json
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.runtimeconfig.dev.json
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.dll
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.pdb
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.Views.dll
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.Views.pdb
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.Views.pdb
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.genruntimeconfig.cache
+D:\ASP.NET CORE\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.csproj.CopyComplete
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.StaticWebAssets.xml
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.exe
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.deps.json
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.runtimeconfig.json
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.runtimeconfig.dev.json
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.dll
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.pdb
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.Views.dll
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\bin\Debug\netcoreapp3.1\Loginpage.Views.pdb
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.csproj.AssemblyReference.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.AssemblyInfoInputs.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.AssemblyInfo.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.csproj.CoreCompileInputs.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorAssemblyInfo.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorAssemblyInfo.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.TagHelpers.input.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.TagHelpers.output.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorCoreGenerate.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Login\LoginSuccess.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorTargetAssemblyInfo.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.RazorTargetAssemblyInfo.cs
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.Views.pdb
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\staticwebassets\Loginpage.StaticWebAssets.Manifest.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\staticwebassets\Loginpage.StaticWebAssets.Pack.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Loginpage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Loginpage.props
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Loginpage.props
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Loginpage.props
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.dll
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.pdb
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.genruntimeconfig.cache
+C:\Users\Dhyana_K\Downloads\loginpage\loginpage\Loginpage\Loginpage\obj\Debug\netcoreapp3.1\Loginpage.csproj.Up2Date
